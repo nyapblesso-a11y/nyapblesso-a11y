@@ -59,3 +59,18 @@ I am a **Fullstack Web Developer** based in Cameroon who builds fast, accessible
 **Role:** Fullstack Developer &nbsp;|&nbsp; **Live Demo:** [meal-recipe-app-oolr.vercel.app](https://meal-recipe-app-oolr.vercel.app) &nbsp;|&nbsp; **Repo:** [MealRecipe-app](https://github.com/nyapblesso-a11y/MealRecipe-app)
 
 ---
+
+---
+
+### 📌 Problem Statement
+
+**Who has the problem?**
+Home cooks and food enthusiasts who create their own recipes but have no structured, searchable place to store and revisit them. They rely on scattered notes, WhatsApp messages, or Google Docs — formats that are disorganized and visually unpleasant.
+
+**Why it matters?**
+Without a personal recipe library, people repeat the effort of recreating dishes from memory, lose favourite recipes, and have no way to present their cooking knowledge in a visual and organized format.
+
+**Why this solution exists?**
+FlavorNode gives users a fast, clean digital workspace to build a personal recipe library — where they can add recipes with images and descriptions, mark favourites, search by name, and view full recipe details in a slide-in panel. All from a single, deployed web app.
+
+---
