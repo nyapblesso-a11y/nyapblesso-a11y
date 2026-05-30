@@ -53,3 +53,9 @@ I am a **Fullstack Web Developer** based in Cameroon who builds fast, accessible
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ---
+
+## 📁 Project: FlavorNode — Personal Recipe Manager
+
+**Role:** Fullstack Developer &nbsp;|&nbsp; **Live Demo:** [meal-recipe-app-oolr.vercel.app](https://meal-recipe-app-oolr.vercel.app) &nbsp;|&nbsp; **Repo:** [MealRecipe-app](https://github.com/nyapblesso-a11y/MealRecipe-app)
+
+---
