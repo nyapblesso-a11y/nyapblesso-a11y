@@ -139,3 +139,55 @@ meal-recipe-app/
 ![Recipe Detail](./screenshots/screenshot-detail.png)
 
 ---
+
+
+### 📚 What I Learned
+
+**Technical lesson:**
+Building a full CRUD interface in React without a backend taught me how to manage all create, read, update, and delete operations entirely through component state — and made the limitations of client-side-only persistence very clear, which directly motivated planning a Node.js + PostgreSQL backend as the next step.
+
+**Workflow lesson:**
+Deploying early to Vercel — before the app was feature-complete — and sharing the live link for feedback accelerated iteration significantly. Testing on a real URL surfaced mobile layout issues that the local dev server did not catch, which reinforced the value of deploying early and often.
+
+**Code organization lesson:**
+Separating the modal, recipe card, detail panel, and navbar into individual components from day one kept the codebase clean. When dark mode was added later, it only required changes to each component's Tailwind classes — not a rewrite — because concerns were already separated.
+
+---
+
+### 🔮 Future Improvements
+
+- Backend integration with Node.js, Express, and PostgreSQL for persistent cross-session storage
+- User authentication so each user manages their own private recipe library
+- Structured ingredient input with quantities and units instead of a single description field
+- Tags and category filtering (e.g. Breakfast, Vegan, Quick Meals)
+- Shareable recipe links — public URL for a single recipe
+- Print-friendly recipe layout
+
+---
+
+## 🗂 Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Appointment Booking App](https://github.com/nyapblesso-a11y/appointment-booking-app) | Fullstack scheduling platform with JWT auth, time-slot booking, and role-based access | Next.js · Node.js · PostgreSQL · Tailwind |
+| [Movie Discovery App](https://github.com/nyapblesso-a11y/Movie-App) | Browse and search films using the TMDB API with filters and detail views | React · Vite · Tailwind |
+| [Currency Exchange App](https://github.com/nyapblesso-a11y/currency-exchange-app) | Real-time currency converter using a live exchange rate API | React · JavaScript |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyapblesso-a11y&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyapblesso-a11y&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I am actively looking for **fullstack or frontend developer roles** — remote, hybrid, or open-source. If you are building something interesting, I would love to hear from you.
+
+📧 **nyapblesso@gmail.com**
+💼 **[linkedin.com/in/nyapblessringnyu](https://www.linkedin.com/in/nyapblessringnyu)**
+🐙 **[github.com/nyapblesso-a11y](https://github.com/nyapblesso-a11y)**
