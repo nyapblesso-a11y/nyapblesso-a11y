@@ -4,7 +4,7 @@
 
 ### Fullstack Web Developer
 
-📍 Cameroon &nbsp;|&nbsp; 📧 nyapblesso@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nyapblessringnyu) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/nyapblesso-a11y)
+📍 Cameroon &nbsp;|&nbsp; 📧 nyapblesso@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/nyapblesso-a11y)
 
 **Open to Work** — Remote roles, freelance projects & open-source collaboration
 
@@ -136,7 +136,7 @@ meal-recipe-app/
 
 **Recipe Detail Panel (Light Mode)**
 
-![Recipe Detail](./screenshots/screenshot-detail.png)
+![Recipe Detail](./screenshots/schttps://www.linkedin.com/feed/reenshot-detail.png)
 
 ---
 
