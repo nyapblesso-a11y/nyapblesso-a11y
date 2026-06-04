@@ -4,7 +4,7 @@
 
 ### Fullstack Web Developer
 
-📍 Cameroon &nbsp;|&nbsp; 📧 nyapblesso@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/nyapblesso-a11y)
+📍 Cameroon &nbsp;|&nbsp; 📧 nyapblesso@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nyap-bless-ringnyu-59b414384) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/nyapblesso-a11y)
 
 **Open to Work** — Remote roles, freelance projects & open-source collaboration
 
@@ -181,4 +181,4 @@ Separating the modal, recipe card, detail panel, and navbar into individual comp
 I am actively looking for **fullstack or frontend developer roles** — remote, hybrid, or open-source. If you are building something interesting, I would love to hear from you.
 
 📧 **nyapblesso@gmail.com**
-[LinkedIn](https://www.linkedin.com/in/nyapblessringnyu) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/nyapblesso-a11y)
+[LinkedIn](https://www.linkedin.com/in/nyap-bless-ringnyu-59b414384) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/nyapblesso-a11y)
