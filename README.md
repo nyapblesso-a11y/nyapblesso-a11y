@@ -181,5 +181,4 @@ Separating the modal, recipe card, detail panel, and navbar into individual comp
 I am actively looking for **fullstack or frontend developer roles** — remote, hybrid, or open-source. If you are building something interesting, I would love to hear from you.
 
 📧 **nyapblesso@gmail.com**
-💼 **[linkedin.com/in/nyapblessringnyu](https://www.linkedin.com/in/nyapblessringnyu)**
-🐙 **[github.com/nyapblesso-a11y](https://github.com/nyapblesso-a11y)**
+[LinkedIn](https://www.linkedin.com/in/nyapblessringnyu) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/nyapblesso-a11y)
